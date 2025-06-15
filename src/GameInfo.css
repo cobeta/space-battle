@@ -1,0 +1,10 @@
+.gameInfo {
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  border: 4px solid white;
+    width: 100vw;
+    box-sizing: border-box;
+    text-align: center;
+}
